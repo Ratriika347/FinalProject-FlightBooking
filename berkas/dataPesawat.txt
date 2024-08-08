@@ -1,0 +1,13 @@
+      ==========================================
+        Selamat Datang Di BOOKINGTIKET2023.COM
+      ==========================================
+                   Pilih Tujuan Anda
+            --------------------------------
+            |  KEBERANGKATAN  | KEDATANGAN |
+            --------------------------------
+            |  1.Yogyakarta   |   Jakarta  |
+            |  2.Semarang     |   Medan    |
+            |  3.Surabaya     |   Batam    |
+            |  4.Bandung      |   Makassar |
+            |  5.Malang       |   Papua    |
+            --------------------------------
